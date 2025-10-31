@@ -1,0 +1,36 @@
+E:\mdk 3 kyrc\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.csproj.AssemblyReference.cache
+E:\mdk 3 kyrc\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.LoginForm.resources
+E:\mdk 3 kyrc\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.Properties.Resources.resources
+E:\mdk 3 kyrc\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.csproj.GenerateResource.cache
+E:\mdk 3 kyrc\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.csproj.CoreCompileInputs.cache
+E:\mdk 3 kyrc\AccessAdminApp\AccessAdminApp\bin\Debug\AccessAdminApp.exe.config
+E:\mdk 3 kyrc\AccessAdminApp\AccessAdminApp\bin\Debug\AccessAdminApp.exe
+E:\mdk 3 kyrc\AccessAdminApp\AccessAdminApp\bin\Debug\AccessAdminApp.pdb
+E:\mdk 3 kyrc\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.exe
+E:\mdk 3 kyrc\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.pdb
+F:\mdk\AccessAdminApp\AccessAdminApp\bin\Debug\AccessAdminApp.exe.config
+F:\mdk\AccessAdminApp\AccessAdminApp\bin\Debug\AccessAdminApp.exe
+F:\mdk\AccessAdminApp\AccessAdminApp\bin\Debug\AccessAdminApp.pdb
+F:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.csproj.AssemblyReference.cache
+F:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.LoginForm.resources
+F:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.Properties.Resources.resources
+F:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.csproj.GenerateResource.cache
+F:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.csproj.CoreCompileInputs.cache
+F:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.exe
+F:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.pdb
+F:\mdk\AccessAdminApp\AccessAdminApp\bin\Debug\System.Data.OleDb.dll
+F:\mdk\AccessAdminApp\AccessAdminApp\bin\Debug\System.Data.OleDb.xml
+F:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAd.51A39841.Up2Date
+E:\mdk\AccessAdminApp\AccessAdminApp\bin\Debug\AccessAdminApp.exe.config
+E:\mdk\AccessAdminApp\AccessAdminApp\bin\Debug\AccessAdminApp.exe
+E:\mdk\AccessAdminApp\AccessAdminApp\bin\Debug\AccessAdminApp.pdb
+E:\mdk\AccessAdminApp\AccessAdminApp\bin\Debug\System.Data.OleDb.dll
+E:\mdk\AccessAdminApp\AccessAdminApp\bin\Debug\System.Data.OleDb.xml
+E:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.csproj.AssemblyReference.cache
+E:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.LoginForm.resources
+E:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.Properties.Resources.resources
+E:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.csproj.GenerateResource.cache
+E:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.csproj.CoreCompileInputs.cache
+E:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAd.51A39841.Up2Date
+E:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.exe
+E:\mdk\AccessAdminApp\AccessAdminApp\obj\Debug\AccessAdminApp.pdb
